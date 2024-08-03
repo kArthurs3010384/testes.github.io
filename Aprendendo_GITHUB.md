@@ -15,9 +15,12 @@ livros com HTML, PDF, GFM (GitHub Flavored Markdown), MS Word e etc.
 
 ## Como baixar e utilizar
 
-Acesse [Quarto.org](https://quarto.org/docs/get-started/) para fazer o
++ Acesse [Quarto.org](https://quarto.org/docs/get-started/) para fazer o
 download do Quarto <br> Clique na versão compatível com o seu sistema
-operacional <br> Para utilizar o Quarto será necessário ter uma das
+operacional <br>
+![Download Quarto](Download_Quarto.png)
+
+Para utilizar o Quarto será necessário ter uma das
 seguintes ferramentas instaladas: VS Code, Jupyter, RStudio, Neovim,
 Text Editor <br>
 
@@ -26,13 +29,19 @@ Neste tutorial usaremos o VSCode <br>
 O Quarto permite linguagens de programação embarcadas como: Python, R,
 Julia, LaTeX, etc. <br>
 
-Acesse [Python.org](https://www.python.org/downloads/) para fazer
++ Acesse [Python.org](https://www.python.org/downloads/) para fazer
 download do Python caso não tenha <br>
+![Download Python](download_python.png)
 
-Acesse [VSCode](https://code.visualstudio.com/download) para fazer
++ Acesse [VSCode](https://code.visualstudio.com/download) para fazer
 download do VSCode caso não tenha <br>
+![Download VSCode](download_vscode.png)
 
-Abra o VSCode use o atalho Ctrl + Shift + X para acessar as extensões
++ Após fazer os downloads será necessário instalar os programas, para cada arquivo baixado dê dois cliques e aperte a opção de next ou próximo, nenhuma configuração especial será necessária
+
++ Abra o VSCode
+![VSCode](VSCODE_cara.png)
++  use o atalho Ctrl + Shift + X para acessar as extensões
 pesquise Quarto e clique em install <br> Acesse o terminal clicando ou
 usando o atalho Ctrl + Shift + ’ <br> <br> ![Terminal do
 VSCode](Captura%20de%20tela%202024-03-21%20105802.png) <br> No terminal
