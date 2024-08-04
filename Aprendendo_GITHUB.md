@@ -44,7 +44,9 @@ download do VSCode caso não tenha <br>
 +  use o atalho Ctrl + Shift + X para acessar as extensões
 pesquise Quarto e clique em install <br> Acesse o terminal clicando ou
 usando o atalho Ctrl + Shift + ’ <br> <br> ![Terminal do
-VSCode](Captura%20de%20tela%202024-03-21%20105802.png) <br> No terminal
+VSCode](Captura%20de%20tela%202024-03-21%20105802.png) <br>
+
++ No terminal
 utilize o comando: <br>
 
     py -m pip install jupyter matplotlib plotly
