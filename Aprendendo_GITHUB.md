@@ -44,7 +44,14 @@ download do VSCode caso não tenha <br>
 + Abra o VSCode
 ![VSCode](VSCODE_cara.png)
 +  use o atalho Ctrl + Shift + X para acessar as extensões
-pesquise Quarto e clique em install <br> Acesse o terminal clicando ou
+pesquise Quarto e clique em install <br>
++ Use o mesmo atalho e pesquise por Python
+
+![](python_vscode.png)
+![](quarto_vscode.png)
+
+
+Acesse o terminal clicando ou
 usando o atalho Ctrl + Shift + ’ <br> <br> ![Terminal do
 VSCode](Captura%20de%20tela%202024-03-21%20105802.png) <br>
 
