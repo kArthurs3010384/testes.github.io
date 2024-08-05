@@ -37,7 +37,9 @@ download do Python caso não tenha <br>
 download do VSCode caso não tenha <br>
 ![Download VSCode](download_vscode.png)
 
-+ Após fazer os downloads será necessário instalar os programas, para cada arquivo baixado dê dois cliques e aperte a opção de next ou próximo, nenhuma configuração especial será necessária
++ Após fazer os downloads será necessário instalar os programas, para o VSCode e Quarto dê dois cliques e aperte a opção de next ou próximo, nenhuma configuração especial será necessária
++ Para o Python abra o instalador e quando aparecer a tela abaixo assinale a opção ADD Python to Path
+![](python_path.png)
 
 + Abra o VSCode
 ![VSCode](VSCODE_cara.png)
